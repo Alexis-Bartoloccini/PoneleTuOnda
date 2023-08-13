@@ -3736,7 +3736,7 @@ text-align: center;
 .carousel-inner{
   text-align: center;
   width: 100vh;
-  background-image: url("/startbootstrap-agency-gh-pages/assets/fondo-rosado-abstracto_196038-23835.jpg");
+  background-image: url("/assets/fondos/fondo-rosado-abstracto_196038-23835.jpg");
 }
 .active{
   display: none;
@@ -10977,7 +10977,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("/startbootstrap-agency-gh-pages/assets/172011-el_esquema_de_color-de_colores-violeta-aqua-ligereza-7680x4320.png");
+  background-image: url("/assets/fondos/172011-el_esquema_de_color-de_colores-violeta-aqua-ligereza-7680x4320.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
